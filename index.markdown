@@ -8,7 +8,7 @@ layout: default
     {{ content }}
   </div>
   <div class="col-md-6">
-    <img src="{{ " alt="Home" width="100%">
+    <img src="https://scitechdaily.com/images/Sun-Earth-Gravity-General-Relativity.jpg" alt="Home" width="10%">
   </div>
 </div>
 
