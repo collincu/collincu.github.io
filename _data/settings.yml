@@ -1,14 +1,8 @@
 menu:
-- {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
-
-people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
@@ -16,10 +10,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/collincu'}
+- {icon: 'instagram', link: 'https://www.instagram.com/collin_c_/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/collin-cunneely-44092b204/'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Collin Cunneely', title: 'B.S.', department: 'Mechanical Engineering', institution: 'University of Washington', institution_address: 'Seattle, WA 98195', phone: '(425) 247-5479', email: 'collincu@uw.edu', image: 'https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/246265265_1500399123630189_7000108354919883302_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZvyvBPQu_EMAX8SRPeb&tn=yTpg99oOStf2tYWF&_nc_ht=scontent-sea1-1.xx&oh=00_AT9izWKvHzkQ1-GXkBMqFZRbJ7xt5k4Pp9PRGF2R0SYyeQ&oe=632B4E5B'}
