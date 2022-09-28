@@ -15,4 +15,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/collin-cunneely-44092b204/'}
 
 contacts:
-- {name: 'Collin Cunneely', title: 'B.S.', department: 'Mechanical Engineering', institution: 'University of Washington', institution_address: 'Seattle, WA 98195', phone: '(425) 247-5479', email: 'collincu@uw.edu', image: 'https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/246265265_1500399123630189_7000108354919883302_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZvyvBPQu_EMAX8SRPeb&tn=yTpg99oOStf2tYWF&_nc_ht=scontent-sea1-1.xx&oh=00_AT9izWKvHzkQ1-GXkBMqFZRbJ7xt5k4Pp9PRGF2R0SYyeQ&oe=632B4E5B'}
+- {name: 'Collin Cunneely', title: 'B.S.', department: 'Mechanical Engineering', institution: 'University of Washington', institution_address: 'Seattle, WA 98195', phone: '(425) 247-5479', email: 'collincu@uw.edu', image: 'assets/img/profilepic.jpg'}
